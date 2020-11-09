@@ -1,0 +1,1 @@
+move "C:\Users\ZUBAIR\Documents\University\UCT\Electrical Engineering 4th Year\EEE4022S\Sample Data\Data_recordings\new_89MHz\*.bin" "C:\Users\ZUBAIR\Documents\University\UCT\Electrical Engineering 4th Year\EEE4022S\Sample Data\Data_recordings\89MHz"
