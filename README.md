@@ -2,7 +2,7 @@
 For the code necessary path changes need to be made depending where the file or folder are stored. Folders for data storage will likely need to be created. 
 
 
-The following code has been uploaded into specific folders.
+The following code has been uploaded into specific branches. 
 1. The Matlab code used to process RSSI data and write it to an excel spread sheet
 -kFMCapture.m, fiveFMCapture.m and DABCapture.m are the main scripts to run to process and write the RSSI data
 2. The Matlab code used for the data analysis.
