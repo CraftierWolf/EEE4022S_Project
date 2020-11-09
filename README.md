@@ -15,5 +15,4 @@ The following code has been uploaded into specific branches.
 -The 89MHz, 94.5MHz and DAB signal macro-enabled excel sheets are available here
 6. The batch and text files used to implement IQ data capture
 -The batch and text files are uploaded. 
-7. Sample IQ data 
-- Here a sample binary file is given for each signal 
+
